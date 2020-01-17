@@ -53,5 +53,7 @@ Rural Action is a regional community development organization with a 29-county f
 
 On November 14th, 2019, posted in: Latest News by Bob Benz
 
-
+## Video explaining the award and project.
 https://youtu.be/A4VpO3CpqAI
+
+// ~~Ignore this, I just really wanted to strikethrough something~~
