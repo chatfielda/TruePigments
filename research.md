@@ -16,8 +16,8 @@ With the Fund’s new report analyzing innovation trends ascertained through the
 “Innovators are hard at work across America, and we can’t wait to share their pathbreaking ideas,” said Amy L. Freitag, Executive Director of The J.M. Kaplan Fund.  “Since we launched The J.M.K. Innovation Prize in 2015, we have been able to provide 30 early-stage initiatives with crucial financial and capacity-building resources, and shine a spotlight on innovators beyond our awardees who may have huge potential.”
 
 
-About True Pigments: 
-Using an innovative technology, True Pigments brings acid mine drainage impacted streams back to life by removing iron oxide and processing it into pigment, a valuable commodity that can be sold to pay for the process, create jobs in rural communities, and fund additional watershed restoration projects. 
+## About True Pigments: 
+**Using an innovative technology, True Pigments brings acid mine drainage impacted streams back to life by removing iron oxide and processing it into pigment, a valuable commodity that can be sold to pay for the process, create jobs in rural communities, and fund additional watershed restoration projects.**
 
 “Currently, iron pigments are primarily mined or produced in an energy-intensive chemical process, contributing to greenhouse gas emissions and causing additional environmental destruction,” said Michelle Shively, Director of Project Development at True Pigments and watershed coordinator at Rural Action. “The vision of our social enterprise is to change that equation and contribute to environmental restoration.”  
 
