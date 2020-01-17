@@ -52,3 +52,6 @@ Rural Action is a regional community development organization with a 29-county f
 ###
 
 On November 14th, 2019, posted in: Latest News by Bob Benz
+
+
+https://youtu.be/A4VpO3CpqAI
