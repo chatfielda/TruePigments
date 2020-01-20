@@ -28,6 +28,8 @@ https://www.ppg.com/
 https://www.rpminc.com/
 
 
-# Sustainability Report
+# Sustainability Reports
 
 http://sustainability.ppg.com/environment/partnerships.aspx
+
+http://mercurypaint.com/MP/Forms/Information/gogreen.aspx
