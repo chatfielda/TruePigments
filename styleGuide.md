@@ -7,6 +7,10 @@ Green - #72B146
 
 Rust - #B65A23
 
+(Potential colors)
+
+ Darker Green - #5e9439
+
 
  ![True Pigments Logo](/imgs/TRUEPIGMENTSGREYLOGO-01-768x1024.png)
 
