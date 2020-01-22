@@ -20,7 +20,7 @@ Yellow (Goethite) - #DF9E26
 
 Red (Hemetite)- #9F3424
 
-Purple (Hemetite II) - #9F3424
+Purple (Hemetite II) - ##884C54
 
 ![True Pigments](/imgs/Swatch-Deisgn-True-Pigments-Final-301x1024.jpg)
 
