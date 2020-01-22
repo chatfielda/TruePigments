@@ -16,7 +16,7 @@ Rust - #B65A23
 
 ## Pigment Colors
 
-Yellow (Goethite) - #FFFFFF
+Yellow (Goethite) - ##DF9E26
 
 Red (Hemetite)- #9F3424
 
