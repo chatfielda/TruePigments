@@ -26,7 +26,7 @@ Purple (Hemetite II) - ##884C54
 
 
 
-## Maybe the font, probably not tho
+## Maybe the logo font, probably not tho
 SF Movie Poster
 By ShyFoundry
 https://www.fontzillion.com/fonts/shyfoundry/sf-movie-poster
