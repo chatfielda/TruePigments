@@ -24,3 +24,9 @@ Purple (Hemetite II) - ##884C54
 
 ![True Pigments](/imgs/Swatch-Deisgn-True-Pigments-Final-301x1024.jpg)
 
+
+
+## Maybe the font, probably not tho
+SF Movie Poster
+By ShyFoundry
+https://www.fontzillion.com/fonts/shyfoundry/sf-movie-poster
